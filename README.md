@@ -1,2 +1,3 @@
 # buildings-reconstruction-from-point-cloud
-planing
+1.building extraction from point cloud
+2.building reconstruction 
